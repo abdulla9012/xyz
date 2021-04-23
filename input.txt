@@ -1,0 +1,3 @@
+Hello Unix OS ji
+
+sed -i 's/Ansari/Unix OS/g' input.txt  # Rename and Replace text inside file.txt
